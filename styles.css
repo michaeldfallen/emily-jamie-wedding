@@ -11,7 +11,7 @@ body {
       rgba(256, 256, 256, 0) 90%,
       white 100%
     ),
-    url(./images/banner.png)
+    url(./images/banner.webp)
     repeat-x
     top center;
   margin-top: 180px;
